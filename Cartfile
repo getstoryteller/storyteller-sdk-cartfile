@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" == 4.8.2
+github "ReactiveX/RxSwift" == 4.5.0
+github "TextureGroup/Texture" == 2.8.1
+gitHub "onmyway133/DeepDiff" == 2.2.0
